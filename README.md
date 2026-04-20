@@ -7,3 +7,7 @@ A evolução das redes de computadores é marcada por marcos históricos signifi
 
 ### 1. Linha do Tempo
 <img width="948" height="439" alt="Captura de tela 2026-04-20 153538" src="https://github.com/user-attachments/assets/10830513-bfc6-4b1e-a294-97dfbc31742e" />
+
+### 2. Elementos da Rede
+- Esquema ilustrando os quatro elementos fundamentais:
+  - **Emissor**
